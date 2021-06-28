@@ -19,4 +19,6 @@
 
 # What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
+  I will continue to use checksum verification, Maven dependency checks, and security certificate creation. I will definitly use all of these tools in the future for projects - even those that are not specifically concerned with security. 
+
 # Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
