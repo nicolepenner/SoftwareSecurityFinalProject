@@ -15,7 +15,7 @@
   Since this is financial data that is at risk, I made sure to use the highest levels of security possible. In the future, considering a company as well as their industry will be important for choosing the correct security protocols and forms. 
 
 # How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
-  I used the Maven Depenency Tool, this helped to check for and identify risk. 
+  I used the Maven Depenency Tool, this helped to check for and identify risk. This is an extremely beneficial tool to continue to check for security breaches as well as new potential security risks. It helps as a developer to check this often, and stay on top of security concerns as they arise. 
 
 # What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
